@@ -1,0 +1,667 @@
+{
+  "qq_number": "2563844290",
+  "group_number": "726524291",
+  "updated_at": "2026-04-22T16:19:14.754935",
+  "skins": [
+    {
+      "name": "春野の夏日海边",
+      "file": "夏日海边安.bds",
+      "thumb": "夏日海边安.bds_py_26_light_thumb.png",
+      "full": "夏日海边安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の无言の白",
+      "file": "无言の白安.bds",
+      "thumb": "无言の白安.bds_py_26_light_thumb.png",
+      "full": "无言の白安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の蜜瓜气泡水",
+      "file": "蜜瓜气泡水.bds",
+      "thumb": "蜜瓜气泡水.bds_py_26_light_thumb.png",
+      "full": "蜜瓜气泡水.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の天使小叽",
+      "file": "天使小叽安.bds",
+      "thumb": "天使小叽安.bds_py_26_light_thumb.png",
+      "full": "天使小叽安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の零食小铺mi",
+      "file": "mimiの零食小铺安.bds",
+      "thumb": "mimiの零食小铺安.bds_py_26_light_thumb.png",
+      "full": "mimiの零食小铺安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の次元棒球社",
+      "file": "次元棒球社.bds",
+      "thumb": "次元棒球社.bds_py_26_light_thumb.png",
+      "full": "次元棒球社.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の玉子爱情故事",
+      "file": "玉子爱情故事安.bds",
+      "thumb": "玉子爱情故事安.bds_py_26_light_thumb.png",
+      "full": "玉子爱情故事安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の亚亚小猫",
+      "file": "亚亚小猫安.bds",
+      "thumb": "亚亚小猫安.bds_py_26_light_thumb.png",
+      "full": "亚亚小猫安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の来杯美式",
+      "file": "来杯美式安.bds",
+      "thumb": "来杯美式安.bds_py_26_light_thumb.png",
+      "full": "来杯美式安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の向日葵小喵",
+      "file": "向日葵小喵.bds",
+      "thumb": "向日葵小喵.bds_py_26_light_thumb.png",
+      "full": "向日葵小喵.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の大熊教官",
+      "file": "大熊教官.bds",
+      "thumb": "大熊教官.bds_py_26_light_thumb.png",
+      "full": "大熊教官.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の发个friend圈",
+      "file": "发个friend圈安.bds",
+      "thumb": "发个friend圈安.bds_py_26_light_thumb.png",
+      "full": "发个friend圈安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野のcoco酱",
+      "file": "coco酱安.bds",
+      "thumb": "coco酱安.bds_py_26_light_thumb.png",
+      "full": "coco酱安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の音乐会",
+      "file": "音乐会安.bds",
+      "thumb": "音乐会安.bds_py_26_light_thumb.png",
+      "full": "音乐会安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の新兰之约",
+      "file": "新兰之约安.bds",
+      "thumb": "新兰之约安.bds_py_26_light_thumb.png",
+      "full": "新兰之约安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の小红帽",
+      "file": "小红帽安.bds",
+      "thumb": "小红帽安.bds_py_26_light_thumb.png",
+      "full": "小红帽安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の哈基米",
+      "file": "哈基米安.bds",
+      "thumb": "哈基米安.bds_py_26_light_thumb.png",
+      "full": "哈基米安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の熊宝宝",
+      "file": "熊宝宝安.bds",
+      "thumb": "熊宝宝安.bds_py_26_light_thumb.png",
+      "full": "熊宝宝安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野のyomiの秋天",
+      "file": "yomiの秋天安.bds",
+      "thumb": "yomiの秋天安.bds_py_26_light_thumb.png",
+      "full": "yomiの秋天安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の冬日小丸子",
+      "file": "冬日小丸子安.bds",
+      "thumb": "冬日小丸子安.bds_py_26_light_thumb.png",
+      "full": "冬日小丸子安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の夏日沉入海",
+      "file": "夏日沉入海安.bds",
+      "thumb": "夏日沉入海安.bds_py_26_light_thumb.png",
+      "full": "夏日沉入海安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の初音多巴胺",
+      "file": "初音多巴胺安.bds",
+      "thumb": "初音多巴胺安.bds_py_26_light_thumb.png",
+      "full": "初音多巴胺安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の小狗水疗剂",
+      "file": "小狗水疗剂.bds",
+      "thumb": "小狗水疗剂.bds_py_26_light_thumb.png",
+      "full": "小狗水疗剂.bds_py_26_light.png"
+    },
+    {
+      "name": "春野のNaNa",
+      "file": "NaNa安.bds",
+      "thumb": "NaNa安.bds_py_26_light_thumb.png",
+      "full": "NaNa安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の百合花",
+      "file": "百合花安.bds",
+      "thumb": "百合花安.bds_py_26_light_thumb.png",
+      "full": "百合花安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の布丁小狗炸鸡店",
+      "file": "布丁狗炸鸡安.bds",
+      "thumb": "布丁狗炸鸡安.bds_py_26_light_thumb.png",
+      "full": "布丁狗炸鸡安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の甜品小厨娘",
+      "file": "甜品小厨娘安.bds",
+      "thumb": "甜品小厨娘安.bds_py_26_light_thumb.png",
+      "full": "甜品小厨娘安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の爱丽丝兔耳梦游",
+      "file": "爱丽丝兔耳梦游.bds",
+      "thumb": "爱丽丝兔耳梦游.bds_py_26_light_thumb.png",
+      "full": "爱丽丝兔耳梦游.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の30℃夏",
+      "file": "30夏安.bds",
+      "thumb": "30夏安.bds_py_26_light_thumb.png",
+      "full": "30夏安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の潘及爱学习",
+      "file": "潘及爱学习安2.bds",
+      "thumb": "潘及爱学习安2.bds_py_26_light_thumb.png",
+      "full": "潘及爱学习安2.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の不良猫猫",
+      "file": "不良猫猫安.bds",
+      "thumb": "不良猫猫安.bds_py_26_light_thumb.png",
+      "full": "不良猫猫安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の公主猫猫",
+      "file": "公主猫猫安.bds",
+      "thumb": "公主猫猫安.bds_py_26_light_thumb.png",
+      "full": "公主猫猫安.bds_py_26_light.png"
+    },
+    {
+      "name": "灰灰假日",
+      "file": "灰灰假日安.bds",
+      "thumb": "灰灰假日安.bds_py_26_light_thumb.png",
+      "full": "灰灰假日安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の守护甜心",
+      "file": "守护甜心安.bds",
+      "thumb": "守护甜心安.bds_py_26_light_thumb.png",
+      "full": "守护甜心安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の水母海兔",
+      "file": "水母海兔安.bds",
+      "thumb": "水母海兔安.bds_py_26_light_thumb.png",
+      "full": "水母海兔安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の蓝莓奶油塔",
+      "file": "蓝莓奶油塔.bds",
+      "thumb": "蓝莓奶油塔.bds_py_26_light_thumb.png",
+      "full": "蓝莓奶油塔.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の潘及爱学习",
+      "file": "潘及爱学习安.bds",
+      "thumb": "潘及爱学习安.bds_py_26_light_thumb.png",
+      "full": "潘及爱学习安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の哈喽小梅子",
+      "file": "哈喽小梅子安.bds",
+      "thumb": "哈喽小梅子安.bds_py_26_light_thumb.png",
+      "full": "哈喽小梅子安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の梦核海洋",
+      "file": "梦核海洋安.bds",
+      "thumb": "梦核海洋安.bds_py_26_light_thumb.png",
+      "full": "梦核海洋安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の张起灵&吴邪",
+      "file": "张起灵吴邪安.bds",
+      "thumb": "张起灵吴邪安.bds_py_26_light_thumb.png",
+      "full": "张起灵吴邪安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の刀与玫瑰",
+      "file": "刀与玫瑰安.bds",
+      "thumb": "刀与玫瑰安.bds_py_26_light_thumb.png",
+      "full": "刀与玫瑰安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の杀生丸&玲",
+      "file": "杀玲之绊安.bds",
+      "thumb": "杀玲之绊安.bds_py_26_light_thumb.png",
+      "full": "杀玲之绊安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の请你参与我的冬天",
+      "file": "请你参与我的冬天.bds",
+      "thumb": "请你参与我的冬天.bds_py_26_light_thumb.png",
+      "full": "请你参与我的冬天.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の一起去露营",
+      "file": "一起去露营安.bds",
+      "thumb": "一起去露营安.bds_py_26_light_thumb.png",
+      "full": "一起去露营安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の明日香绫波丽",
+      "file": "明日香绫波丽.bds",
+      "thumb": "明日香绫波丽.bds_py_26_light_thumb.png",
+      "full": "明日香绫波丽.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の草莓圣诞季",
+      "file": "草莓圣诞季安.bds",
+      "thumb": "草莓圣诞季安.bds_py_26_light_thumb.png",
+      "full": "草莓圣诞季安.bds_py_26_light.png"
+    },
+    {
+      "name": "半妖与巫女的誓言",
+      "file": "犬薇.bds",
+      "thumb": "犬薇.bds_py_26_light_thumb.png",
+      "full": "犬薇.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の跃动青春3.0",
+      "file": "跃动青春.bds",
+      "thumb": "跃动青春.bds_py_26_light_thumb.png",
+      "full": "跃动青春.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の可爱小猫",
+      "file": "可爱小猫安.bds",
+      "thumb": "可爱小猫安.bds_py_26_light_thumb.png",
+      "full": "可爱小猫安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の甜甜kitty酱",
+      "file": "甜甜kitty酱安.bds",
+      "thumb": "甜甜kitty酱安.bds_py_26_light_thumb.png",
+      "full": "甜甜kitty酱安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の黑粉cat",
+      "file": "黑粉安.bds",
+      "thumb": "黑粉安.bds_py_26_light_thumb.png",
+      "full": "黑粉安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の冬日知樱",
+      "file": "冬日知樱安.bds",
+      "thumb": "冬日知樱安.bds_py_26_light_thumb.png",
+      "full": "冬日知樱安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の最好的闺蜜",
+      "file": "最好的闺蜜.bds",
+      "thumb": "最好的闺蜜.bds_py_26_light_thumb.png",
+      "full": "最好的闺蜜.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の小王子",
+      "file": "小王子安.bds",
+      "thumb": "小王子安.bds_py_26_light_thumb.png",
+      "full": "小王子安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の晴天娃娃",
+      "file": "晴天娃娃安.bds",
+      "thumb": "晴天娃娃安.bds_py_26_light_thumb.png",
+      "full": "晴天娃娃安.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の奶咖小喵",
+      "file": "奶咖小喵.bds",
+      "thumb": "奶咖小喵.bds_py_26_light_thumb.png",
+      "full": "奶咖小喵.bds_py_26_light.png"
+    },
+    {
+      "name": "春野の不良猫猫",
+      "file": "不良猫猫.bdi",
+      "thumb": "不良猫猫.bdi_py_26_light_thumb.png",
+      "full": "不良猫猫.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の小红帽",
+      "file": "小红帽.bdi",
+      "thumb": "小红帽.bdi_py_26_light_thumb.png",
+      "full": "小红帽.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の次元棒球社",
+      "file": "次元棒球社.bdi",
+      "thumb": "次元棒球社.bdi_py_26_light_thumb.png",
+      "full": "次元棒球社.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の大熊教官",
+      "file": "大熊教官.bdi",
+      "thumb": "大熊教官.bdi_py_26_light_thumb.png",
+      "full": "大熊教官.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の初音多巴胺",
+      "file": "初音多巴胺.bdi",
+      "thumb": "初音多巴胺.bdi_py_26_light_thumb.png",
+      "full": "初音多巴胺.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の潘及爱学习",
+      "file": "潘及爱学习.bdi",
+      "thumb": "潘及爱学习.bdi_py_26_light_thumb.png",
+      "full": "潘及爱学习.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の水母海兔",
+      "file": "水母海兔.bdi",
+      "thumb": "水母海兔.bdi_py_26_light_thumb.png",
+      "full": "水母海兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の发个friend圈",
+      "file": "发个friend圈.bdi",
+      "thumb": "发个friend圈.bdi_py_26_light_thumb.png",
+      "full": "发个friend圈.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の亚亚小猫",
+      "file": "亚亚小猫.bdi",
+      "thumb": "亚亚小猫.bdi_py_26_light_thumb.png",
+      "full": "亚亚小猫.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の蓝莓奶油塔",
+      "file": "蓝莓奶油塔.bdi",
+      "thumb": "蓝莓奶油塔.bdi_py_26_light_thumb.png",
+      "full": "蓝莓奶油塔.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の张起灵&吴邪",
+      "file": "张起灵吴邪.bdi",
+      "thumb": "张起灵吴邪.bdi_py_26_light_thumb.png",
+      "full": "张起灵吴邪.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の晴天娃娃",
+      "file": "晴天娃娃.bdi",
+      "thumb": "晴天娃娃.bdi_py_26_light_thumb.png",
+      "full": "晴天娃娃.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野のNaNa",
+      "file": "NaNa.bdi",
+      "thumb": "NaNa.bdi_py_26_light_thumb.png",
+      "full": "NaNa.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の蜜瓜气泡水",
+      "file": "蜜瓜气泡水.bdi",
+      "thumb": "蜜瓜气泡水.bdi_py_26_light_thumb.png",
+      "full": "蜜瓜气泡水.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の奶咖小喵",
+      "file": "奶咖小喵.bdi",
+      "thumb": "奶咖小喵.bdi_py_26_light_thumb.png",
+      "full": "奶咖小喵.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の百合花",
+      "file": "百合花.bdi",
+      "thumb": "百合花.bdi_py_26_light_thumb.png",
+      "full": "百合花.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の哈基米",
+      "file": "哈基米.bdi",
+      "thumb": "哈基米.bdi_py_26_light_thumb.png",
+      "full": "哈基米.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の音乐会",
+      "file": "音乐会.bdi",
+      "thumb": "音乐会.bdi_py_26_light_thumb.png",
+      "full": "音乐会.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の向日葵小喵",
+      "file": "向日葵小喵.bdi",
+      "thumb": "向日葵小喵.bdi_py_26_light_thumb.png",
+      "full": "向日葵小喵.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野のcoco酱",
+      "file": "coco酱.bdi",
+      "thumb": "coco酱.bdi_py_26_light_thumb.png",
+      "full": "coco酱.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の小王子",
+      "file": "小王子.bdi",
+      "thumb": "小王子.bdi_py_26_light_thumb.png",
+      "full": "小王子.bdi_py_26_light.png"
+    },
+    {
+      "name": "灰灰假日",
+      "file": "灰灰假日.bdi",
+      "thumb": "灰灰假日.bdi_py_26_light_thumb.png",
+      "full": "灰灰假日.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の爱丽丝兔耳梦游",
+      "file": "爱丽丝兔耳梦游.bdi",
+      "thumb": "爱丽丝兔耳梦游.bdi_py_26_light_thumb.png",
+      "full": "爱丽丝兔耳梦游.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の杀生丸&玲",
+      "file": "杀玲之绊.bdi",
+      "thumb": "杀玲之绊.bdi_py_26_light_thumb.png",
+      "full": "杀玲之绊.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の夏日海边",
+      "file": "夏日海边.bdi",
+      "thumb": "夏日海边.bdi_py_26_light_thumb.png",
+      "full": "夏日海边.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の可爱小猫",
+      "file": "可爱小猫.bdi",
+      "thumb": "可爱小猫.bdi_py_26_light_thumb.png",
+      "full": "可爱小猫.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の30℃夏",
+      "file": "30夏.bdi",
+      "thumb": "30夏.bdi_py_26_light_thumb.png",
+      "full": "30夏.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の玉子爱情故事",
+      "file": "玉子爱情故事.bdi",
+      "thumb": "玉子爱情故事.bdi_py_26_light_thumb.png",
+      "full": "玉子爱情故事.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の夏日沉入海",
+      "file": "夏日沉入海.bdi",
+      "thumb": "夏日沉入海.bdi_py_26_light_thumb.png",
+      "full": "夏日沉入海.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の请你参与我的冬天",
+      "file": "请你参与我的冬天.bdi",
+      "thumb": "请你参与我的冬天.bdi_py_26_light_thumb.png",
+      "full": "请你参与我的冬天.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の刀与玫瑰",
+      "file": "刀与玫瑰.bdi",
+      "thumb": "刀与玫瑰.bdi_py_26_light_thumb.png",
+      "full": "刀与玫瑰.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の无言の白",
+      "file": "无言の白.bdi",
+      "thumb": "无言の白.bdi_py_26_light_thumb.png",
+      "full": "无言の白.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の新兰之约",
+      "file": "新兰之约.bdi",
+      "thumb": "新兰之约.bdi_py_26_light_thumb.png",
+      "full": "新兰之约.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の公主猫猫",
+      "file": "公主猫猫.bdi",
+      "thumb": "公主猫猫.bdi_py_26_light_thumb.png",
+      "full": "公主猫猫.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の来杯美式",
+      "file": "来杯美式.bdi",
+      "thumb": "来杯美式.bdi_py_26_light_thumb.png",
+      "full": "来杯美式.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の守护甜心",
+      "file": "OpenHeart.bdi",
+      "thumb": "OpenHeart.bdi_py_26_light_thumb.png",
+      "full": "OpenHeart.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の跃动青春3.0",
+      "file": "跃动青春30.bdi",
+      "thumb": "跃动青春30.bdi_py_26_light_thumb.png",
+      "full": "跃动青春30.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の黑粉cat",
+      "file": "黑粉.bdi",
+      "thumb": "黑粉.bdi_py_26_light_thumb.png",
+      "full": "黑粉.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の一起去露营",
+      "file": "一起去露营.bdi",
+      "thumb": "一起去露营.bdi_py_26_light_thumb.png",
+      "full": "一起去露营.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の布丁小狗炸鸡店",
+      "file": "布丁小狗炸鸡店.bdi",
+      "thumb": "布丁小狗炸鸡店.bdi_py_26_light_thumb.png",
+      "full": "布丁小狗炸鸡店.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の甜品小厨娘",
+      "file": "甜品小厨娘.bdi",
+      "thumb": "甜品小厨娘.bdi_py_26_light_thumb.png",
+      "full": "甜品小厨娘.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の甜甜kitty酱",
+      "file": "甜甜kitty酱.bdi",
+      "thumb": "甜甜kitty酱.bdi_py_26_light_thumb.png",
+      "full": "甜甜kitty酱.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の冬日小丸子",
+      "file": "冬日小丸子.bdi",
+      "thumb": "冬日小丸子.bdi_py_26_light_thumb.png",
+      "full": "冬日小丸子.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の草莓圣诞季",
+      "file": "草莓圣诞季.bdi",
+      "thumb": "草莓圣诞季.bdi_py_26_light_thumb.png",
+      "full": "草莓圣诞季.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野のyomiの秋天",
+      "file": "yomiの秋天.bdi",
+      "thumb": "yomiの秋天.bdi_py_26_light_thumb.png",
+      "full": "yomiの秋天.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野的熊宝宝",
+      "file": "熊宝宝.bdi",
+      "thumb": "熊宝宝.bdi_py_26_light_thumb.png",
+      "full": "熊宝宝.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の哈喽小梅子",
+      "file": "哈喽小梅子.bdi",
+      "thumb": "哈喽小梅子.bdi_py_26_light_thumb.png",
+      "full": "哈喽小梅子.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の明日香&绫波丽",
+      "file": "明日香绫波丽.bdi",
+      "thumb": "明日香绫波丽.bdi_py_26_light_thumb.png",
+      "full": "明日香绫波丽.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の零食小铺mi",
+      "file": "mimiの零食小铺.bdi",
+      "thumb": "mimiの零食小铺.bdi_py_26_light_thumb.png",
+      "full": "mimiの零食小铺.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の冬日知樱",
+      "file": "冬日知樱.bdi",
+      "thumb": "冬日知樱.bdi_py_26_light_thumb.png",
+      "full": "冬日知樱.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の梦核海洋",
+      "file": "梦核海洋.bdi",
+      "thumb": "梦核海洋.bdi_py_26_light_thumb.png",
+      "full": "梦核海洋.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の最好的闺蜜",
+      "file": "最好的闺蜜.bdi",
+      "thumb": "最好的闺蜜.bdi_py_26_light_thumb.png",
+      "full": "最好的闺蜜.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の小狗水疗剂",
+      "file": "小狗水疗剂.bdi",
+      "thumb": "小狗水疗剂.bdi_py_26_light_thumb.png",
+      "full": "小狗水疗剂.bdi_py_26_light.png"
+    },
+    {
+      "name": "春野の天使小叽",
+      "file": "天使小叽.bdi",
+      "thumb": "天使小叽.bdi_py_26_light_thumb.png",
+      "full": "天使小叽.bdi_py_26_light.png"
+    }
+  ]
+}
