@@ -1,7 +1,7 @@
 {
   "qq_number": "2563844290",
   "group_number": "726524291",
-  "updated_at": "2026-06-11T16:08:36+00:00",
+  "updated_at": "2026-06-11T17:25:26+00:00",
   "skins": [
     {
       "name": "春野の不良猫猫",
@@ -680,6 +680,12 @@
       "file": "千禧kt.bdi",
       "thumb": "千禧kt.bdi_py_26_light_thumb.png",
       "full": "千禧kt.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "保底210-恋爱定义许愿",
+      "file": "保底210-恋爱定义许愿.bdi",
+      "thumb": "保底210-恋爱定义许愿.bdi_py_26_light_thumb.png",
+      "full": "保底210-恋爱定义许愿.bdi_py_26_light_thumb.png"
     }
   ]
 }
