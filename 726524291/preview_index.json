@@ -1,7 +1,7 @@
 {
   "qq_number": "2563844290",
   "group_number": "726524291",
-  "updated_at": "2026-06-05T03:34:31+00:00",
+  "updated_at": "2026-06-11T11:18:25+00:00",
   "skins": [
     {
       "name": "春野の不良猫猫",
@@ -668,6 +668,12 @@
       "file": "小丑yomi.bds",
       "thumb": "小丑yomi.bds_py_26_light_thumb.png",
       "full": "小丑yomi.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "春野の千禧kt",
+      "file": "千禧kt.bds",
+      "thumb": "千禧kt.bds_py_26_light_thumb.png",
+      "full": "千禧kt.bds_py_26_light_thumb.png"
     }
   ]
 }
